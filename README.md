@@ -28,3 +28,17 @@ Attacker IP	-Automatically assigned by Host VM
 📡 Ping – Basic reachability test
 
 📁 VirtualBox – Lab environment
+
+
+# 📡 Step-by-Step Penetration Test
+
+🔍 Host Discovery – Ping Scan
+
+  ping 192.168.1.4
+
+🔎 Network Port Scanning – Nmap
+
+  Nmap -T4 -A -v 192.168.1.4
+
+
+
